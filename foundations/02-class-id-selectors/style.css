@@ -1,0 +1,14 @@
+.first, .second, .third{
+    background-color: rgb(255, 168, 181);
+    font-family: verdana, sans-serif;
+    font-size: 24px;
+}
+#boot {
+    color: blue;
+    font-size: 36px;
+}
+#root{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
